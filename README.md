@@ -9,7 +9,6 @@ program, the phone number acts as a primary key that will be used to search for 
  - classes
  - objects
  - methods and functions
- - encapsulation
  - loops 
  - if else
  - switch
